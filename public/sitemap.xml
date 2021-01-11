@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/bear/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/</loc>
     <lastmod>2020-12-30T11:25:46+09:00</lastmod>
   </url>
@@ -18,21 +26,13 @@
   </url>
   
   <url>
-    <loc>https://example.com/markdown-syntax-guide/</loc>
+    <loc>https://example.com/blog/markdown-syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/bear/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/hugo/</loc>
   </url>
   
 </urlset>
