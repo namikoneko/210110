@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://sad-curran-188a58.netlify.app/blog/sitemap.xml
+Sitemap: https://sad-curran-188a58.netlify.app/sitemap.xml
